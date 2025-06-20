@@ -332,7 +332,7 @@ Connect your repo and deploy with one click.
 
 ## 🙌 Contribute / Need Help?
 
-If you face any issues, feel free to open an issue or reach out on [LinkedIn](https://linkedin.com).
+If you face any issues, feel free to open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/saniya-imroze/).
 
 ---
 
